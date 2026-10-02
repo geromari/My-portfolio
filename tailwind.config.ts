@@ -51,6 +51,8 @@ export default {
       fontFamily: {
         display: ['Bebas Neue', 'sans-serif'],
         body: ['Inter', 'system-ui', 'sans-serif'],
+        mono: ['"JetBrains Mono"', 'ui-monospace', 'monospace'],
+        grotesk: ['"Space Grotesk"', 'sans-serif'],
       },
       fontSize: {
         'hero': 'clamp(4rem, 15vw, 12rem)',
