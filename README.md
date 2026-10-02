@@ -1,8 +1,6 @@
-# qytenex-portfolio
+# My-portfolio
 
-quero importar um projeto do github
-
-This project was built with [Lovable](https://lovable.dev).
+Portfolio website for Zakariyo Qarshiyev — Software Engineer. Built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## Build with Lovable
 

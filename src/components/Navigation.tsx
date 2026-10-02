@@ -8,14 +8,12 @@ const navItems = [
   { id: 'skills', label: 'Skills' },
   { id: 'work', label: 'Work' },
   { id: 'education', label: 'Education' },
-  { id: 'writing', label: 'Writing' },
-  { id: 'speaking', label: 'Speaking' },
 ]
 
 const socialLinks = [
-  { label: 'Mail', href: 'mailto:bruce@banner.com' },
-  { label: 'Instagram', href: 'https://instagram.com' },
-  { label: 'Vimeo', href: 'https://vimeo.com' },
+  { label: 'Mail', href: 'mailto:zakariyo@example.com' },
+  { label: 'GitHub', href: 'https://github.com/geromari' },
+  { label: 'Telegram', href: 'https://t.me/geromari' },
 ]
 
 export function Navigation() {

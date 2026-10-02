@@ -1,14 +1,14 @@
 import { motion } from 'framer-motion'
 
 const skills = [
-  'Editorial Photography',
-  'Portrait Photography',
-  'Documentary',
-  'Commercial Campaigns',
-  'Art Direction',
-  'Visual Storytelling',
-  'Photo Editing',
-  'Creative Direction',
+  'Python, C, JavaScript, TypeScript',
+  'Frontend (Next.js, React, Tailwind, TMA)',
+  'Backend (FastAPI, Node.js, Express.js)',
+  'Telegram Bots (aiogram, Telegraf)',
+  'AI Integration (Gemini API, OpenAI API)',
+  'Data Analysis & Machine Learning',
+  'Arch Linux, Hyprland, Bash',
+  'Cybersecurity & Network Analysis',
 ]
 
 const fadeInUp = {

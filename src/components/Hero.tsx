@@ -24,9 +24,9 @@ export function Hero() {
             transition={{ duration: 0.8, ease: 'easeOut' }}
           >
             <h1 className="font-display leading-none tracking-tighter text-[15vw] sm:text-[12vw] md:text-hero">
-              <span className="block text-white">BRUCE</span>
-              <span className="block text-white">BANNER</span>
-              <span className="block text-white">PHOTOGRAPHY</span>
+              <span className="block text-white">ZAKARIYO</span>
+              <span className="block text-white">QARSHIYEV</span>
+              <span className="block text-white">SOFTWARE ENGINEER</span>
             </h1>
             
             <motion.p
@@ -35,7 +35,7 @@ export function Hero() {
               transition={{ delay: 0.5, duration: 0.8 }}
               className="mt-6 md:mt-8 text-sm sm:text-base text-white/80 max-w-sm md:max-w-md leading-relaxed"
             >
-              Bruce was named in Aperture Magazine's prestigious "Visual 100" list, as one of the Ten Most Compelling Photographers in 2023.
+              Full-Stack developer, system programmer, and AI integration specialist. Building fast, scalable, and intelligent applications.
             </motion.p>
           </motion.div>
         </div>
